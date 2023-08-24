@@ -32,3 +32,19 @@ print('Vowel Letters:', vowel_letters)
 
 mixed_set = {'Hello', 101, -2, 'Bye'}
 print('Set of mixed data types:', mixed_set)
+
+#swap of two number vb
+  
+
+x = 5
+y = 10
+
+
+temp = x
+x = y
+y = temp
+
+print('The value of x after swapping: {}'.format(x))
+print('The value of y after swapping: {}'.format(y))
+    
+      
